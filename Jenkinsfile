@@ -30,7 +30,7 @@ pipeline {
                     // url: 'https://github.com/SaffronEdgeTech/SaffronSync.git',
                     // branch: 'main',
                     // credentialsId: 'f2e74fff-93c9-497f-b444-72352c75d475'
-                     url: 'https://github.com/SaffronEdgeTech/SaffronSync.git',
+                     url: 'https://github.com/Rushicom/favourite-place.git',
                     branch: 'main',
                     credentialsId: 'eb3f475b-1187-4fdc-81b0-d71d4daf3612'
 
